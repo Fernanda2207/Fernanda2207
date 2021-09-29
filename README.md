@@ -1,6 +1,6 @@
-### Cap, it’s Sam. Can you hear me? On your left!
 
- Desenvolvedor Java Jr 
+
+ Desenvolvedora Java Full Stack Jr 
 
 #### Meus contatos:
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernanda-silva-66284a215/)
@@ -18,5 +18,5 @@
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
-<img align="left"  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernanda2207&layout=compact&theme=vision-friendly-dark" />
-<img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=Fernanda2207&show_icons=true,css&layout=compact&theme=vision-friendly-dark" />
+<img align="left"  width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernanda2207&layout=compact&theme=vision-friendly-dark" />
+<img align="right" width="300px" src="https://github-readme-stats.vercel.app/api?username=Fernanda2207&show_icons=true,css&layout=compact&theme=vision-friendly-dark" />
