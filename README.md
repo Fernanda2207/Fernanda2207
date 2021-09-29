@@ -18,5 +18,5 @@
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
-<img align="left"  width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernanda2207&layout=compact&theme=vision-friendly-dark" />
-<img align="right" width="300px" src="https://github-readme-stats.vercel.app/api?username=Fernanda2207&show_icons=true,css&layout=compact&theme=vision-friendly-dark" />
+<img align="left"  width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernanda2207&layout=compact&theme=vision-friendly-dark" />
+<img align="right" width="350px" src="https://github-readme-stats.vercel.app/api?username=Fernanda2207&show_icons=true,css&layout=compact&theme=vision-friendly-dark" />
